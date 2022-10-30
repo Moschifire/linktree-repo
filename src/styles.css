@@ -1,0 +1,51 @@
+body {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  font-family: verdana;
+  font-size: 20px;
+  color: purple;
+}
+#profile_img {
+  margin-top: 20px;
+  border-radius: 50%;
+  height: 150px;
+}
+button {
+  width: 90%;
+  height: 35px;
+  margin: 5px;
+  font-family: calibri;
+  font-size: 15px;
+}
+
+#zuri_internship {
+  height: 70px;
+  margin-left: -2px;
+}
+#hng {
+  font-size: 10px;
+  margin-left: 20px;
+}
+#ingressive {
+  height: 20px;
+  margin-left: 30px;
+}
+#zuri_internship,
+#hng,
+#ingressive {
+  display: inline-block;
+}
+a {
+  color: black;
+}
+a:link {
+  text-decoration: none;
+}
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
